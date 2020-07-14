@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #
-# Dropbox Uploader
-#
-# Copyright (C) 2010-2017 Andrea Fabrizi <andrea.fabrizi@gmail.com>
+# Dropbox Uploader/Downloader
+# download and upload files via dropbox Developer APIs:wq
+# Copyright (C) 2020 arifyz@gmail.com>
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
